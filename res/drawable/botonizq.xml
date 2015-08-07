@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	    <!-- Desactivado -->
+    <item android:drawable="@drawable/btnizqtou" android:state_enabled="false"/>
+	<!--pulsado  -->
+    <item android:drawable="@drawable/btnizqtou" android:state_pressed="true"></item>
+	<!--normal  -->
+	<item android:drawable="@drawable/btnizq" ></item>
+</selector>

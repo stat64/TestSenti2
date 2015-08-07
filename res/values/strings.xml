@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestSenti2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_especialistas">Especialistas</string>
+    <string name="title_activity_audicion">Especialistas</string>
+    <string name="text_instruction">Instrucciones:</string>
+    <string name="text_instruction1">Necesita tener conectado los audífonos para realizar el Test</string>
+    <string name="text_resultados">Resultados:</string>
+    <string name="text_resultadosIzquierdo">Izquierdo</string>
+    <string name="text_resultadosDerecho">Derecho</string>
+    <string name="text_diagnostico">diagnostico</string>
+    <string name="text_diagnostico1">diagnostico1</string>
+    <string name="text_diagnostico2">diagnostico2</string>
+    <string name="text_diagnostico3">diagnostico3</string>
+    <string name="text_diagnostico4">diagnostico4</string>
+    <string name="text_instruction5">Es necesario conectar los audífonos para realizar el Test</string>
+    <string name="text_instruction2">No será posible realizar el Test sin los audífonos</string>
+    <string name="text_instruction1A">Seleccione el oído en el que esta utilizando el audífono:</string>
+    <string name="button_aceptar">Siguiente</string>
+    <string name="button_izquierdo">Izquierdo</string>
+    <string name="button_comun">Común</string>
+    <string name="button_derecho">Derecho</string>
+    <string name="button_1">1</string>
+    <string name="button_2">2</string>
+    <string name="button_3">3</string>
+    <string name="button_4">4</string>
+    <string name="button_5">5</string>
+    <string name="button_6">6</string>
+    <string name="button_7">7</string>
+    <string name="button_siC">Si pude oir</string>
+    <string name="button_noC">No pude oir</string>
+    <string name="button_repetirC">Repertir</string>
+    <string name="button_masOmenos">½</string>
+    <string name="title_activity_memoria">Memoria</string>
+    <string name="title_activity_recom_memoria">RecomMemoria</string>
+
+</resources>
